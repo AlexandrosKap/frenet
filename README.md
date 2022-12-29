@@ -1,15 +1,17 @@
 # 🎓 Frenet
 
-🚀 Video editor for manim scenes
+An video editor for Manim scenes.
 
-## 📦 Installation
+Frenet is a simple and easy to use animation tool that aims to make the creation of Manim scenes an easy task.
+
+## Installation
 
 ```sh
 git clone https://github.com/synthels/frenet
-cd ./frenet
+cd frenet
 yarn install
 ```
 
-## 📜 License
+## License
 
 Frenet is released under the terms of the MIT License. Please refer to the LICENSE file.
